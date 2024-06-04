@@ -1,0 +1,41 @@
+[
+{
+    "id" : 1,
+    "Question" : "Quelle est la femelle du hamster ?",
+    "Reponse" : "L'Amsterdam" 
+},
+{
+    "id" : 2,
+    "Question" : "Que dis un oignon quand il se cogne ?",
+    "Reponse" : "AÏEEE" 
+},{
+    "id" : 3,
+    "Question" : "Quel est l'animal le plus heureux  ?",
+    "Reponse" : "Le hibou, parce que sa femme est chouette " 
+}
+,{
+    "id" : 4,
+    "Question" : "Pourquoi le footballl c'est rigolo ?",
+    "Reponse" : "Parce que Thierry en rit" 
+},
+{
+    "id" : 5,
+    "Question" : "Quel est le sport le plus fruité ?",
+    "Reponse" : "La boxe, parce que tu te prends des pêches dans la poire et tu tombes dans les pommes" 
+},
+{
+    "id" : 6,
+    "Question" : "Que se fait un Schtroupf quand il tombe ?",
+    "Reponse" : "Il se fait un bleu" 
+},
+{
+    "id" : 7,
+    "Question" : "Quel est le comble pour un marin ?",
+    "Reponse" : "Avoir le nez qui coule" 
+},
+{
+    "id" : 8,
+    "Question" : "Qu'est ce que les enfants usent le plus à lécole ?",
+    "Reponse" : "Le professeur" 
+}
+]
